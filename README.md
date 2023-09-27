@@ -10,9 +10,9 @@ This code is an implementation of this paper which has accepted to be presented 
 
 <div style="overflow: auto; max-height: 200px;">
   <pre>
-"Accepted to be presented  in 17th IEEE ICIIS 2023. 
+"Presented  in 17th IEEE ICIIS 2023. 
 Cite as:
-Sivakumar Sivasankar, Keththura Lawrance, Balaratnam Pirunthavan and Maheshi B.Dissanayake, “Long-Run Real-time Human Tracking At Low-Light Condition”, 2023 IEEE 17th International Conference on Industrial and Information Systems (ICIIS), Kandy, Sri Lanka, 2023
+S. Sivasankar, K. Lawrance, B. Pirunthavan and M. B. Dissanayake, "Long-Run Real-Time Human Tracking at Low Light Condition," 2023 IEEE 17th International Conference on Industrial and Information Systems (ICIIS), Peradeniya, Sri Lanka, 2023, pp. 1-6, doi: 10.1109/ICIIS58898.2023.10253600.
   </pre>
 </div>
 
